@@ -7,7 +7,7 @@ Jonathan Sastre
 ## Ver ejemplo en vivo
 
 ## Instalación
-Este proyecto necesita Fx Drema, ejecutarse.
+Este proyecto necesita Fx Drema, Meta Trader 4 para ejecutarse.
 
 ## Contratación
 Si quieres contratarme puedes escribirme a jonathansastre23@gmail.com para consultas.
