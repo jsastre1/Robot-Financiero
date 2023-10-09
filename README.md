@@ -1,5 +1,5 @@
 ## Descripción
-Proyecto de Grado tecnologo sobre un robot automatico para compra y venta de activos financieros en mercado de divisas
+Proyecto de grado tecnologo sobre un robot automatico para compra y venta de activos financieros en mercado de divisas
 
 ## Autor
 Jonathan Sastre
